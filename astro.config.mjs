@@ -2,6 +2,6 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
   site: "https://amzzpyjs.github.io",
-  base: "/portfolio",
+  base: "/portfolio/",
   output: "static"
 });
